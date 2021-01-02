@@ -13,7 +13,7 @@
 > #### <a href="server update.md">服务器更新日志</a>
 > #### <a href="rule update.md">规则更新日志</a>
 > #### <a href="rockstar code.mn">R星部分特殊代码</a>
-> #### <a href="result explain.md">规则解说</a>
+> #### <a href="result explain.md">判断目的讲解</a>
 ## 已完成和关闭的开发项目列表
 请在以下的页面查看更多消息
 
