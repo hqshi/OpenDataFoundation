@@ -9,10 +9,12 @@
 * Api 暂未开放
 * QQ群机器人 因腾讯限制，暂时不提供支持
 
-## 介绍页面
-> #### <a href="verson update.md">规则更新日志</a>
-
-## 已完成和关闭的项目的列表
+## 介绍
+> #### <a href="server update.md">服务器更新日志</a>
+> #### <a href="rule update.md">规则更新日志</a>
+> #### <a href="rockstar code.mn">R星部分特殊代码</a>
+> #### <a href="result explain.md">规则解说</a>
+## 已完成和关闭的开发项目列表
 请在以下的页面查看更多消息
 
 > #### <a href="project/closed.md">暂时不会提供支持的功能</a>
