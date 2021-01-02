@@ -13,7 +13,7 @@
 > #### <a href="server update.md">服务器更新日志</a>
 > #### <a href="rule update.md">规则更新日志</a>
 > #### <a href="rockstar code.mn">R星部分特殊代码</a>
-> #### <a href="result explain.md">判断目的讲解</a>
+> #### <a href="result explain.md">规则判断目的</a>
 ## 已完成和关闭的开发项目列表
 请在以下的页面查看更多消息
 
@@ -36,7 +36,7 @@
 * 更新控制运行模型并实现
 
 ### 待完成的目标
-* 测试并发布卡约·佩里科豪劫分红计算器
+* 
 
 
 
