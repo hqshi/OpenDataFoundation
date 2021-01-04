@@ -1,5 +1,4 @@
-# CODE
-## 指定游戏页面
+# 指定游戏页面
 ```javascript
 function o() {
             var e;
