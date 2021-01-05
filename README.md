@@ -19,7 +19,7 @@
 ### 更新记录 files
 > #### <a href="server update.md">服务器更新日志</a>
 > #### <a href="rule update.md">规则更新日志</a>
-> #### <a href="rockstar codes">R星部分特殊代码</a>
+> #### <a href="github.com/hqshi/OpenDataFoundation/blob/main/rockstar%20codes">R星部分特殊代码</a>
 > #### <a href="result explain.md">规则判断目的</a>
 
 
