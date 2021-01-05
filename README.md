@@ -10,17 +10,12 @@
 * QQ群机器人 因腾讯限制，暂时不提供支持
 
 ## 介绍
-现阶段页面由三个部分组成
+现阶段页面由如下部分组成
 ### 使用介绍 wiki
-[欢迎使用wiki](https://github.com/hqshi/OpenDataFoundation/wiki)
-### 项目进度 project
-[进度看板](https://github.com/users/hqshi/projects/1)
+[欢迎使用wiki](https://github.com/hqshi/OpenDataFound
 
-### 更新记录 files
-> #### <a href="server update.md">服务器更新日志</a>
-> #### <a href="rule update.md">规则更新日志</a>
+### 更新记录 file
 > #### <a href="github.com/hqshi/OpenDataFoundation/blob/main/rockstar%20codes">R星部分特殊代码</a>
-> #### <a href="result explain.md">规则判断目的</a>
 
 
 
