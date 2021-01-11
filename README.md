@@ -12,7 +12,7 @@
 ## 介绍
 现阶段页面由如下部分组成
 ### 使用介绍 wiki
-[欢迎使用wiki](https://github.com/hqshi/OpenDataFound
+[欢迎使用wiki](https://github.com/hqshi/OpenDataFoundation/wiki)
 
 ### 更新记录 file
 > #### <a href="github.com/hqshi/OpenDataFoundation/blob/main/rockstar%20codes">R星部分特殊代码</a>
