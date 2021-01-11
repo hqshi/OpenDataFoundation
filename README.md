@@ -11,12 +11,15 @@
 
 ## 简介
 现阶段页面由如下部分组成
-### 公开文档 wiki
-[欢迎使用wiki](https://github.com/hqshi/OpenDataFoundation/wiki)
+### 公开文档
+#### [欢迎使用wiki](https://github.com/hqshi/OpenDataFoundation/wiki)
 > GTA5游戏查询平台所有能公开的内容。或者如果对查询有一定的疑问且能公开内部细节、请求合理我也会添加新的文档页面。
 
-### 更新记录 file
-> #### <a href="github.com/hqshi/OpenDataFoundation/blob/main/rockstar%20codes">R星部分特殊代码</a>
+### 文档库
+#### [部分R星页面/代码/文件](/hqshi/OpenDataFoundation/blob/main/rockstar%20codes)
+> 部分R星的文档，抽取出来供大家参考
 
 
+#### [工具](/hqshi/OpenDataFoundation/blob/main/tools)
+> 提供的工具
 
